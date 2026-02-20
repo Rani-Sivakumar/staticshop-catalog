@@ -197,6 +197,10 @@
     "home": {
     "count": 2,
     "inventoryValue": 7046.700000000001
+  },
+    "sports": {
+    "count": 4,
+    "inventoryValue": 41799.6
   }
   }
 }
