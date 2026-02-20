@@ -1,0 +1,190 @@
+{
+  "metadata": {
+    "email": "22f3000632@ds.study.iitm.ac.in",
+    "version": "13770a66"
+  },
+  "products": [
+    {
+      "id": "prod-13770a66-001",
+      "name": "Premium Item 1",
+      "category": "sports",
+      "price": 214.73,
+      "stock": 122,
+      "rating": 3.2
+    },
+    {
+      "id": "prod-13770a66-002",
+      "name": "Standard Item 2",
+      "category": "electronics",
+      "price": 257.11,
+      "stock": 114,
+      "rating": 2
+    },
+    {
+      "id": "prod-13770a66-003",
+      "name": "Premium Item 3",
+      "category": "sports",
+      "price": 22.31,
+      "stock": 43,
+      "rating": 4.6
+    },
+    {
+      "id": "prod-13770a66-004",
+      "name": "Elite Item 4",
+      "category": "electronics",
+      "price": 194.73,
+      "stock": 114,
+      "rating": 4.7
+    },
+    {
+      "id": "prod-13770a66-005",
+      "name": "Standard Item 5",
+      "category": "home",
+      "price": 30.18,
+      "stock": 125,
+      "rating": 4.5
+    },
+    {
+      "id": "prod-13770a66-006",
+      "name": "Pro Item 6",
+      "category": "clothing",
+      "price": 61.5,
+      "stock": 142,
+      "rating": 1.2
+    },
+    {
+      "id": "prod-13770a66-007",
+      "name": "Premium Item 7",
+      "category": "electronics",
+      "price": 28.09,
+      "stock": 75,
+      "rating": 3.4
+    },
+    {
+      "id": "prod-13770a66-008",
+      "name": "Standard Item 8",
+      "category": "electronics",
+      "price": 234.82,
+      "stock": 114,
+      "rating": 2.7
+    },
+    {
+      "id": "prod-13770a66-009",
+      "name": "Pro Item 9",
+      "category": "electronics",
+      "price": 225.61,
+      "stock": 59,
+      "rating": 4.8
+    },
+    {
+      "id": "prod-13770a66-010",
+      "name": "Elite Item 10",
+      "category": "books",
+      "price": 112.27,
+      "stock": 189,
+      "rating": 4.7
+    },
+    {
+      "id": "prod-13770a66-011",
+      "name": "Premium Item 11",
+      "category": "sports",
+      "price": 87.17,
+      "stock": 167,
+      "rating": 2.4
+    },
+    {
+      "id": "prod-13770a66-012",
+      "name": "Pro Item 12",
+      "category": "clothing",
+      "price": 96.97,
+      "stock": 164,
+      "rating": 2.7
+    },
+    {
+      "id": "prod-13770a66-013",
+      "name": "Basic Item 13",
+      "category": "books",
+      "price": 196.09,
+      "stock": 17,
+      "rating": 3
+    },
+    {
+      "id": "prod-13770a66-014",
+      "name": "Premium Item 14",
+      "category": "electronics",
+      "price": 117.51,
+      "stock": 124,
+      "rating": 2.7
+    },
+    {
+      "id": "prod-13770a66-015",
+      "name": "Elite Item 15",
+      "category": "clothing",
+      "price": 401.03,
+      "stock": 136,
+      "rating": 1.2
+    },
+    {
+      "id": "prod-13770a66-016",
+      "name": "Standard Item 16",
+      "category": "home",
+      "price": 163.71,
+      "stock": 20,
+      "rating": 2
+    },
+    {
+      "id": "prod-13770a66-017",
+      "name": "Basic Item 17",
+      "category": "electronics",
+      "price": 10.65,
+      "stock": 141,
+      "rating": 1.4
+    },
+    {
+      "id": "prod-13770a66-018",
+      "name": "Basic Item 18",
+      "category": "books",
+      "price": 401.92,
+      "stock": 127,
+      "rating": 4.2
+    },
+    {
+      "id": "prod-13770a66-019",
+      "name": "Elite Item 19",
+      "category": "books",
+      "price": 134.74,
+      "stock": 164,
+      "rating": 1.2
+    },
+    {
+      "id": "prod-13770a66-020",
+      "name": "Pro Item 20",
+      "category": "books",
+      "price": 437.68,
+      "stock": 183,
+      "rating": 2.5
+    },
+    {
+      "id": "prod-13770a66-021",
+      "name": "Elite Item 21",
+      "category": "sports",
+      "price": 34.37,
+      "stock": 43,
+      "rating": 3.9
+    },
+    {
+      "id": "prod-13770a66-022",
+      "name": "Premium Item 22",
+      "category": "clothing",
+      "price": 350.31,
+      "stock": 82,
+      "rating": 1.6
+    }
+  ],
+  "aggregations": {
+    "books": {
+      "count": 5,
+      "inventoryValue": 177789.2
+    }
+  }
+}
